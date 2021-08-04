@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "name": "floor",
+      "castShadows": true,
+      "receiveShadows": true,
+      "color": [1.0, 1.0, 1.0],
+      "location": [0.0, 0.0, 0.0],
+      "surface": {
+        "kr": 0.2,
+        "ka": 0.4,
+        "kd": 0.6,
+        "ks": 0.3,
+        "material": {
+          "type": "solid_color",
+          "parameters": {
+            "color": [1.0, 1.0, 1.0]
+          }
+        }
+      }
+    }
+  ]
+}
